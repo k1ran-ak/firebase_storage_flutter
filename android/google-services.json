@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "280771982457",
+    "project_id": "fir-storage-app-757ea",
+    "storage_bucket": "fir-storage-app-757ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280771982457:android:730c26648acc479e9690a8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_storage_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280771982457-mdoonb45vm6hv6kblm8u7ctpffpnh9f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_IiaFp6fo6dFwqZ5iwfT3XgTqn1j1xV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280771982457-mdoonb45vm6hv6kblm8u7ctpffpnh9f2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280771982457-f075n8uh2llpm4fcsm83espt3f9fvqrj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiran.firebasestorage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280771982457:android:6d8d7b52f966ea9c9690a8",
+        "android_client_info": {
+          "package_name": "com.kiran.firebasestorageandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280771982457-mdoonb45vm6hv6kblm8u7ctpffpnh9f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_IiaFp6fo6dFwqZ5iwfT3XgTqn1j1xV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280771982457-mdoonb45vm6hv6kblm8u7ctpffpnh9f2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280771982457-f075n8uh2llpm4fcsm83espt3f9fvqrj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiran.firebasestorage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
